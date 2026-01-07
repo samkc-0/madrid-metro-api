@@ -32,3 +32,8 @@ go.work.sum
 # .vscode/
 
 data/
+
+# OS-specific
+.DS_Store
+
+madrid
